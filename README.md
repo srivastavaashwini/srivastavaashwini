@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashwinisrivastava
+- 👋 Hi, I’m @srivastavaashwini
 - 👀 I’m interested in ...Coding, Datascience, AI
 - 🌱 I’m currently learning ...Signal App client and server and Datascience, A
 - 💞️ I’m looking to collaborate on ...SignalApp++
